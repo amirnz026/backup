@@ -1,11 +1,13 @@
 {
-  "accentColor": "",
-  "baseFontSize": 15,
-  "theme": "obsidian",
-  "cssTheme": "Things",
+  "accentColor": "#8064a7",
+  "baseFontSize": 17,
+  "theme": "system",
+  "cssTheme": "",
   "interfaceFontFamily": "Jetbrains Mono",
   "monospaceFontFamily": "Jetbrains Mono",
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "textFontFamily": "JetBrains Mono"
+  "textFontFamily": "JetBrains Mono",
+  "translucency": true,
+  "showViewHeader": true
 }
