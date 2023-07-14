@@ -1,0 +1,10 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments",
+  "showInlineTitle": true
+}

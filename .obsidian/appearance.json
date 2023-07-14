@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "baseFontSize": 15,
+  "theme": "obsidian",
+  "cssTheme": "Things",
+  "interfaceFontFamily": "Jetbrains Mono",
+  "monospaceFontFamily": "Jetbrains Mono",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "textFontFamily": "JetBrains Mono"
+}
